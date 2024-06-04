@@ -1,1 +1,1 @@
-#docker-vobs-typo3-10.4
+#docker-vobs-typo3-11.5
